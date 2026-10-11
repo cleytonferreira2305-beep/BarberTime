@@ -1,0 +1,6 @@
+{
+  "name": "BarberTime - Agendamento e Gestão para Barbeiros e Profissionais",
+  "description": "Plataforma premium para agendamento online, descoberta de profissionais locais e gestão completa de barbearias, salões e manicures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
